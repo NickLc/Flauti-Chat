@@ -1,0 +1,23 @@
+{
+	"myself" : "Eva",
+	"port" : "8888",
+	"neighbors_names" : ["Adan", "Lucifer"],
+	"neighbors" : {
+		"Lucifer": {
+			"IP": "127.0.0.1", 
+			"port": 6666
+		},
+		"Adan": {
+			"IP": "127.0.0.1", 
+			"port": 7777
+		},
+		"Eva": {
+			"IP": "127.0.0.1", 
+			"port": 8888
+		},
+		"Lilit": {
+			"IP": "127.0.0.1",
+			"port": 9999
+		}
+	}
+}

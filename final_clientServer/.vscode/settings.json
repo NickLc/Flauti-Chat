@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\UNI\\9-CICLO\\Sistemas Concurrentes y Nucleos\\Final\\json-20200518.jar"
+    ]
+}

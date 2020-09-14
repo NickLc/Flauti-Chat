@@ -1,0 +1,5 @@
+{
+	"myself" : "ServerFautiChat",
+	"port" : "82",
+	"clients": ["Adan", "Eva", "Lilit", "Lucifer"]
+}
